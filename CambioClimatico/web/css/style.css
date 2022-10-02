@@ -1,0 +1,21 @@
+.posR{
+    z-index: 0;
+}
+
+.posA{
+    position: absolute;
+    left: 25%;
+    z-index: 1
+}
+
+
+.slider.slider-horizontal{
+ width:1200px !important;
+ }
+ 
+ .label1{
+     font-weight: bold;
+     color: white;
+     font-size: 20px;
+     text-align: center;
+ }
